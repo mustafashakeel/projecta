@@ -13,7 +13,7 @@ Markdown Images
 ===============
 
 Reference Style
-[ cat ]: https://github.com/mustafashakeel/projecta/blob/main/cat.jpeg "cat picture" 
+[cat]: https://github.com/mustafashakeel/projecta/blob/main/cat.jpeg "cat picture" 
 
 Inline Style 
 ![ Cat Image ](https://github.com/mustafashakeel/projecta/blob/main/cat.jpeg " Cat Picture")
